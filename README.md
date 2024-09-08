@@ -25,7 +25,6 @@ This is a Flask-based web application that allows users to manage contacts. The 
 
     ```bash
     git clone https://github.com/idror67/projectfullstack.git
-    cd projectfs
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
